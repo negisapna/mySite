@@ -33,15 +33,15 @@ h4 {
   font-weight: normal;
 }
 
-a{
+a {
   color: #11999E;
 }
 
-a:hover{
+a:hover {
   color: #EAF6F6;
 }
 
-hr{
+hr {
   border-bottom: 5px dotted #EAF6f6;
   border-width: 0 0 5px 0;
   width: 5%;
@@ -55,7 +55,7 @@ hr{
   background-color: #EAF6F6;
 }
 
-.profile{
+.profile {
   width: 30%;
   margin: auto;
   line-height: 2;
@@ -65,7 +65,7 @@ hr{
   margin-top: 50px;
 }
 
-.contact-me{
+.contact-me {
   width: 50%;
   margin: auto;
   line-height: 2;
@@ -79,12 +79,12 @@ hr{
   line-height: 2;
 }
 
-.footer-link{
+.footer-link {
   margin: 20px;
   text-decoration: none;
 }
 
-.copyright{
+.copyright {
   color: #EAF6F6;
   font-size: 0.75rem;
 }
@@ -100,24 +100,24 @@ hr{
 
 .top-cloud {
   position: absolute;
-  top: 200px;
-  right: 250px;
+  top: 7rem;
+  right: 15.625rem;
 }
 
-.skill-row{
+.skill-row {
   margin: 100px auto 100px auto;
   width: 50%;
   text-align: left;
   line-height: 2;
 }
 
-.code-img{
+.code-img {
   width: 25%;
   float: left;
   margin-right: 30px;
 }
 
-.sketch-img{
+.sketch-img {
   width: 25%;
   float: right;
   margin-left: 30px;
